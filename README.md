@@ -1,2 +1,1 @@
-pc-piratatv
-===========
+<iframe frameborder="0" height="630" name="canais" scrolling="no" src="http://www.pcpiratatvrj.xpg.com.br/Samsung%20-%20Nova%20Smart%20TV.htm" width="100%"></iframe>
